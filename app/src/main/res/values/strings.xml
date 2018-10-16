@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">QuizApp</string>
 
+    <string name="intro">This is an educational app to check your knowledge of emergency procedures or actions to take in different emergency situations.
+                \n
+                \nEach question carries a score of 10 marks, overall you will be scored over 100%. Any question you leave blank is given a score of 0.
+                \n
+                \nHint: For Questions with checkboxes,you can choose more than one correct answer.
+                \n
+                \nGoodluck!"</string>
+
     <string name="number1">1. What is the first step to take when you see a fire?</string>
     <string name="number1_option1">Put it out.</string>
     <string name="number1_option2">Evacuate</string>
